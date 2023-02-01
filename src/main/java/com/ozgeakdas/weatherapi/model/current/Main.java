@@ -1,4 +1,4 @@
-package com.ozgeakdas.weatherapi.model;
+package com.ozgeakdas.weatherapi.model.current;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

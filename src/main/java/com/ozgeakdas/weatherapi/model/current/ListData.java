@@ -1,11 +1,10 @@
-package com.ozgeakdas.weatherapi.model;
+package com.ozgeakdas.weatherapi.model.current;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;
-import java.util.List;
 
 @Data
 @AllArgsConstructor
